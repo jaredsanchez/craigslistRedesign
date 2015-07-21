@@ -1,0 +1,49 @@
+General Comments
+
+Some of this will be said below, but we wanted to include it here as well for clarity.  
+
+We decided to go with only one main color because we didn't believe we need to elicit strong emotions or draw the user's attention (besides the contact button). Blue allows the page to be fairly neutral and still provides good aesthetics. 
+
+We also decided to go with only one font, but we changed the font-weight and font-size and made text italicized or bold to highlight important text. We tried to use good letter-spacing and line-spacing in the the descriptions to keep the text readable. 
+
+Spacing was a major focus for us. Craigslist as it is now has poor spacing and positioning, and it can make the site hard to navigate and understand.  We tried to make sure that we avoided too much clutter by removing extraneous links and info, particularly in the homepage and list view. 
+
+Another focus of ours was images and icons.  Images and icons convey so much more than text (which Craigslist now relies heavily on), so we wanted to use anywhere that was appropriate to grab the user's interest.  In the item view and list view this is especially clear.
+
+
+
+
+Homepage 
+
+The first things we noticed about the homepage were that it is cluttered and overwhelmed by text links.  We obviously wanted to avoid the same problem, so we decided to focus on only the most important elements of the homepage.  
+
+We realized that the most important thing on the homepage (the thing you do the most) is search, so we made the search bar the focus of our new homepage.  We placed it right in the middle and gave it a white background (vs light grey for for the rest of the page).  Because of its importance also decided to have it stick to the top of the page so the user never needs to scroll to find it.
+
+The next essential piece of the homepage is the categories, we determined.  The problem is that on craigslist all the categories are long lists of links to subcategories.  All these links clutter the page and make it hard to find anything, so we chose to do away with the sub-categories and focus only on the main categories.  We made the buttons for these main categories much larger and included an icon that emphasizes the category and makes it more recognizable. 
+
+Spacing/Positioning: We tried to give the page really good spacing, which was something that craigslist’s site severely lacks.  Through effective spacing and positioning, we tried to make the search bar the focal point of the page.  We made it stand alone (by giving it lots of space above and below) and also fixed to the top of the page, which both hopefully achieve that goal and emphasize the search bar.
+
+Color: We decided to go with only one color (besides the background) for the homepage.  We thought that too many colors might take away from the simplicity of the look we were going for.  Also, we didn’t have a need to grab the users attention with a bright red or yellow on the homepage, so we went with a neutral blue for the title, buttons, and icons.  
+
+Typography/Images: We wanted to limit the text on this page and tried to guide the user with icons instead. We tried to pick an icon and that matched each category/nav button well so that the user can easily recognize what each one does. Where we do have text, we tried to emphasize the important things by increasing font-size and font-weight.  For one, we made the title larger than any of the other text (which also served to space out the page for the search bar). Next, we tried to show that categories are helpful and important by making that text the next largest. We also used a lighter text in the search bar. 
+
+
+
+
+List Results Page
+
+For the list results page, we decided on a vertical list with photos and minimal information about each item. This seemed clear and informative but also more detailed than the old Craigslist result page because we decided to include a photo. In choosing a vertical alignment for the list, we stuck to a very straightforward layout for positioning that also allowed for cleaner spacing. By including more space, we opted for a roomier layout that pulled focus directly to each result. 
+
+In terms of typography, headings and subheadings are bolded or italicized, but are still consistent with the rest of the site. We decided to make the images a big part of this page, with the item info also emphasized. We chose to stick with white and blue as they provide a neutral color scheme for users.
+
+
+
+
+Item View
+
+The focus of the item view page is on the images of the items and the “Contact Seller” button. Those elements are highlighted with bright colors, while the other elements of the page are more muted (like the rest of our site), so as not compete. The contact button is yellow in order to make the user want to click on it as that is the main goal of the page. The positioning of the box containing this button is also fixed so that the user sees it all times, even while scrolling. This box also contains the basic information about the item that we wanted the user to be able to see at all times such as price, name, and location. 
+
+We tried to use good letter-spacing, font-size, and line spacing in the item description so that the description is readable.  We also chose to keep the description fairly narrow so that each line doesn't stretch too far across the page.  
+
+
+
